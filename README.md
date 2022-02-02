@@ -1,2 +1,0 @@
-# manvitha-ranjith
-manvitha ranjith
