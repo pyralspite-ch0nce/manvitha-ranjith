@@ -1,0 +1,20 @@
+body {
+    background-color: #696969;
+}
+.ranjith {
+    font-family: 'Inconsolata', monospace;
+    font-size: xx-large; /*just like manvithas boobs*/
+    font-weight: 400;
+    float: left;
+    margin: 0px;
+}
+.ranjith:hover {
+    color: #420690;
+    transition-duration: 0.5s;
+}
+.ranjithbutton {
+    font-family: 'Inconsolata', monospace;
+    border-radius: 10px;
+    border-width: 2px;
+    float: right;
+}
